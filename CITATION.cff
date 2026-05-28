@@ -3,7 +3,7 @@ message: "If you use this repository in your research, please cite it as:"
 title: "Awesome Full Duplex Speech to Speech Communication Survey"
 version: 0.1.0
 date-released: 2026-05-28
-doi: 10.5281/zenodo.12345678
+doi: 10.5281/zenodo.20432561
 url: "https://github.com/cyrta/awesome-full-duplex-speech-to-speech"
 repository-code: "https://github.com/cyrta/awesome-full-duplex-speech-to-speech"
 license: Apache-2.0
