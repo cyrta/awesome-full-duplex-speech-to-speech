@@ -16,6 +16,15 @@ Unlike traditional cascade pipelines (Speech-to-Text -> LLM -> Text-to-Speech), 
 > Unlike half-duplex (turn-based) systems constrained by sequential listen-think-speak cycles, full-duplex spoken language models (FD-SLMs / FD-SpeechLLMs) enable parallel encoding and generation within unified processing cycles.    
 > The field has undergone a decisive paradigm since 2022–2023, accelerated by the public availability of models such as Moshi (Kyutai, 2024), the SyncLLM framework (Meta AI / UW, 2024), and commercial deployments including GPT-4o Realtime (OpenAI, 2024) and Gemini Live (Google DeepMind, 2025).
 
+---
+## Table of contents
+
+[[_TOC_]]
+
+
+
+---
+
  
 ## Models
 
@@ -47,7 +56,17 @@ Table with events listed historically.
 
 
 ---
-## References
+## Publications
+
+
+---
+## Other learning materials
+
+
+---
+## Commercial Product
+
+---
 
 ---
 
