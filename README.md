@@ -82,7 +82,8 @@ Table with events listed historically.
 ## Citation
 
 If you use this work, please cite the paper:
-`
+
+```
 ​@misc{cyrta2026fullduplexspeechtospeechllm,
   author       = {Cyrta, Pawe{\l}},
   title        = {Awesome Full-Duplex Speech Language Models Survey},
