@@ -19,8 +19,15 @@ Unlike traditional cascade pipelines (Speech-to-Text -> LLM -> Text-to-Speech), 
 ---
 ## Table of contents
 
-[[_TOC_]]
-
+- [Models](#models)
+- [Audio and Speech Representations](#audio-and-speech-representations)
+- [Datasets](#datasets)
+- [Benchmarks](#benchmarks)
+- [Challenges](#challenges)
+- [Publications](#publications)
+- [Other learning materials](#other-learning-materials)
+- [Commercial Product](#audio-and-speech-representations)
+- [Citation](#citation)
 
 
 ---
@@ -64,6 +71,10 @@ Table with events listed historically.
 
 
 ---
+## Open Source Projects
+
+
+---
 ## Commercial Product
 
 ---
@@ -71,15 +82,17 @@ Table with events listed historically.
 ## Citation
 
 If you use this work, please cite the paper:
-​```bibtex
-@misc{cyrta2026fdspeechllm,
-  author  = {Cyrta, Paweł},
-  title   = {Awesome Full-Duplex Speech Language Models Survey},
-  year    = {2026},
-  version = {0.1.0},
-  url     = {https://github.com/cyrta/awesome-full-duplex-speech-to-speech}
+`
+​@misc{cyrta2026fullduplexspeechtospeechllm,
+  author       = {Cyrta, Pawe{\l}},
+  title        = {Awesome Full-Duplex Speech Language Models Survey},
+  year         = {2026},
+  version      = {0.1.0},
+  howpublished = {GitHub repository},
+  note         = {Accessed: 2026-05-28},
+  url          = {https://github.com/cyrta/awesome-full-duplex-speech-to-speech}
 }
-​```
+```
 
 
 ---
