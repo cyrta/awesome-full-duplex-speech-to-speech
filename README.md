@@ -68,5 +68,19 @@ Table with events listed historically.
 
 ---
 
+## Citation
+
+If you use this work, please cite the paper:
+​```bibtex
+@misc{cyrta2026fdspeechllm,
+  author  = {Cyrta, Paweł},
+  title   = {Awesome Full-Duplex Speech Language Models Survey},
+  year    = {2026},
+  version = {0.1.0},
+  url     = {https://github.com/cyrta/awesome-full-duplex-speech-to-speech}
+}
+​```
+
+
 ---
 
