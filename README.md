@@ -1,5 +1,8 @@
-# awesome-full-duplex-speech-to-speech    
+[![DOI](https://zenodo.org/badge/1252494319.svg)](https://doi.org/10.5281/zenodo.20432560)
+
+# awesome full duplex speech-to-speech    
 A curated, categorized guide to Full-Duplex Speech-to-Speech (S2S) Conversational models, architectures, datasets, evaluation benchmarks and open-source projects.    
+
 
 
 This survey comprehensively maps the landscape:    
